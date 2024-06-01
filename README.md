@@ -8,5 +8,10 @@ $ git clone https://github.com/Hemanthlepcha/ReviewAsset.git
 ```
 Run `index.html` file
 <h3>Previews</h3>
+Home Page
 <img src="Screenshot from 2024-01-11 10-53-11.png"/>
+Category Page
+<img src="Screenshot from 2024-01-11 10-53-48.png"/>
+Review Page
+<img src="Screenshot from 2024-01-11 10-54-10.png"/>
 
