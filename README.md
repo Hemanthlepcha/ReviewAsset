@@ -4,8 +4,9 @@ The Interactive Site Review App combines the power of HTML, CSS, and JavaScript 
 <h3>How to use?</h3>
 
 ```
-$ git clone 
+$ git clone https://github.com/Hemanthlepcha/ReviewAsset.git
 ```
+Run `index.html` file
 <h3>Previews</h3>
 <img src="Screenshot from 2024-01-11 10-53-11.png"/>
 
